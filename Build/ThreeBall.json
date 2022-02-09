@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Threeball",
+"productVersion": "0.1",
+"dataUrl": "ThreeBall.data.unityweb",
+"wasmCodeUrl": "ThreeBall.wasm.code.unityweb",
+"wasmFrameworkUrl": "ThreeBall.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "ThreeBall.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.5f1"
+}
